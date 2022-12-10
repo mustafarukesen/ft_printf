@@ -43,7 +43,7 @@ well with a Makefile, you don't have to do that anymore, you just type `make` on
 
 ``make`` without bonus functions.
 
-``gcc (fonction name) libft.a`` you can compile the function like this.``libft.a`` fetches other necessary functions of the function you are running.
+``gcc (fonction name) libftprintf.a`` you can compile the function like this.``libftprintf.a`` fetches other necessary functions of the function you are running.
 
 ## Link To ft_printf Tester
 I suggest you to test the functions before posting and in this link it says how to do it:
